@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=2&height=300&section=header&text=Welcome!&fontSize=70&desc=Sanghwa's%20Github&descSize=30&descAlign=65&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=2&height=200&section=header&text=Welcome!&fontSize=70&fontAlignY=30&desc=Sanghwa's%20Github&descSize=30&descAlign=65&descAlignY=52" />
 
 
 <!--
